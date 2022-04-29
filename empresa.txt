@@ -1,1 +1,2 @@
 Sujeito Programador
+Sujeito aprendendo Git e Github
