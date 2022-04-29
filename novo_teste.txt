@@ -1,7 +1,3 @@
 Mais um teste
-
-
-
-:)
-
-tem que sair no hub
+# API_LOGIN
+KEY_LOGIN = 123123
